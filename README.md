@@ -11,3 +11,8 @@ texto y lo agregarán a una lista visible al hacer clic en "Adicionar".
 
 -Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", 
 se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
+
+
+No hay instrucciones extra, solo las evidentes a la hora de jugarlo.
+
+Todas las funciones han sido introducidas
